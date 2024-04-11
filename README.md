@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://m87.site/blog](https://m87.site/blog)
 
-- ⚡ Fun fact **"You can't get so hung up on where you'd rather be, that you forget how to make the most of where you are." -Arthur from Passengers (2016)**
+- ⚡ Fun fact **You can't get so hung up on where you'd rather be, that you forget how to make the most of where you are. -Arthur from Passengers (2016)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
