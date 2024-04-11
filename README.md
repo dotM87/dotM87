@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Astro and Vue for web development, and Rust for hobby.**
 
-- 👨‍💻 All of my projects are available at [m87.site/portfolio](m87.site/portfolio)
+- 👨‍💻 All of my projects are available at [https://m87.site/portfolio](https://m87.site/portfolio)
 
 - 📝 I regularly write articles on [https://medium.com/@dotm87](https://medium.com/@dotm87)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mbenjaminzr@gmail.com**
 
-- 📄 Know about my experiences [m87.site/blog](m87.site/blog)
+- 📄 Know about my experiences [https://m87.site/blog](https://m87.site/blog)
 
 - ⚡ Fun fact **I'm drawn to sunsets and sunrises, they wrap me in a comforting warmth that soothes my soul.**
 
