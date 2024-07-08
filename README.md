@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Astro and Vue for web development, and Rust for hobby.**
 
-- 👨‍💻 All of my projects are available at [https://m87.site/portfolio](https://m87.site/portfolio)
+- 👨‍💻 All of my projects are available at [https://m87.codes/portfolio](https://m87.codes/portfolio)
 
 - 📝 I regularly write articles on [https://medium.com/@dotm87](https://medium.com/@dotm87)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mbenjaminzr@gmail.com**
 
-- 📄 Know about my experiences [https://m87.site/blog](https://m87.site/blog)
+- 📄 Know about my experiences [https://m87.codes/blog](https://m87.codes/blog)
 
 - ⚡ Fun fact **You can't get so hung up on where you'd rather be, that you forget how to make the most of where you are. -Arthur from Passengers (2016)**
 
