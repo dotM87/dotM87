@@ -28,7 +28,7 @@
 <a href="https://www.leetcode.com/dotm87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dotm87" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotm87&show_icons=true&locale=en&layout=compact" alt="dotm87" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotm87&show_icons=true&locale=en&layout=compact" alt="dotm87" height="500" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dotm87&" alt="dotm87" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dotm87&" alt="dotm87" height="500" /></p>
 
