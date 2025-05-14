@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Miguel Benjamin Zubieta</h1>
 <h3 align="center">A passionate software developer from Bolivia.</h3>
 
-- 🔭 I’m currently working on [Avi Pro Mobile](https://github.com/Endurance-Soft/Avi-Pro-Mobile)
+- 🔭 I’m currently building my [portfolio](https://m87.codes/)
 
-- 🌱 I’m currently learning **Astro and Vue for web development, and Rust for hobby.**
+- 🌱 I’m currently learning **Astro and Vue for web development, and Algorithms for hobby.**
 
 - 👨‍💻 All of my projects are available at [https://m87.codes/portfolio](https://m87.codes/portfolio)
 
 - 📝 I regularly write articles on [https://medium.com/@dotm87](https://medium.com/@dotm87)
 
-- 💬 Ask me about **React, Python or Linux.**
+- 💬 Ask me about **Movies, Python or Linux.**
 
 - 📫 How to reach me **mbenjaminzr@gmail.com**
 
