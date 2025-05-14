@@ -30,5 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotm87&show_icons=true&locale=en&layout=compact" alt="dotm87" height="180" /></p>
 
-<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=dotm87" alt="dotm87" height="180" /></p>
+<p>&nbsp;<img src="https://github-readme-streak-stats-eight.vercel.app/?user=dotm87" alt="dotm87" height="180" /></p>
 
