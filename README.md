@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Benjamin Zubieta</h1>
 <h3 align="center">A passionate software developer from Bolivia.</h3>
 
-- 🔭 I’m currently building my [portfolio](https://m87.codes/)
+- 🔭 I’m currently building my [portfolio](https://m87.codes/) and search new projects.
 
 - 🌱 I’m currently learning **Astro and Vue for web development, and Algorithms for hobby.**
 
