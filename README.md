@@ -16,8 +16,3 @@
 - 📄 Know about my experiences [https://m87.codes/blog](https://m87.codes/blog)
 
 - ⚡ Fun fact **You can't get so hung up on where you'd rather be, that you forget how to make the most of where you are. -Arthur from Passengers (2016)**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotm87&show_icons=true&locale=en&layout=compact" alt="dotm87" height="180" /></p>
-
-<p>&nbsp;<img src="https://github-readme-streak-stats-eight.vercel.app/?user=dotm87" alt="dotm87" height="180" /></p>
-
